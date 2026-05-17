@@ -19,7 +19,11 @@
 
 ## About
 
-I architect intelligent systems that bridge **raw data** and **real-world products** — integrating ML models into scalable full-stack platforms. I believe code should be clean, expressive, and purposeful.
+I am an **AI Engineer** and **Full-Stack Developer** passionate about building production-ready intelligent systems. I specialize in designing and deploying end-to-end ML pipelines — from data ingestion and model training to serving predictions through scalable APIs and intuitive web interfaces.
+
+My work spans across **Large Language Models**, **computer vision**, **data engineering**, and **cloud infrastructure**, always with a focus on reliability, performance, and clean architecture. I explore how cutting-edge AI research can be translated into real-world applications that create measurable value.
+
+I approach every project with energy and a unique perspective — writing code that isn't just functional, but expressive, maintainable, and built to last.
 
 > *"Code should be unique, expressive, and efficient — not just functional, but a craft in itself."*
 
@@ -29,7 +33,7 @@ I architect intelligent systems that bridge **raw data** and **real-world produc
 
 | 🧠 AI & Backend Integration | 📊 Data Science | 🌐 Full-Stack Web |
 |---|---|---|
-| Integrating ML models into production APIs. Smart backends that learn and adapt. | Extracting signal from structured and unstructured data. Turning numbers into decisions. | Scalable backends, intuitive frontends, and complex data pipelines — end to end. |
+| Designing and deploying ML pipelines end-to-end. Integrating LLMs, vision models, and custom AI into production APIs that scale. | Extracting signal from structured and unstructured data. Building dashboards, reports, and predictive systems that turn numbers into decisions. | Scalable backends, intuitive frontends, and complex data pipelines — architected end to end with performance in mind. |
 
 ---
 
@@ -51,6 +55,17 @@ I architect intelligent systems that bridge **raw data** and **real-world produc
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 **Cloud & DevOps**
@@ -79,23 +94,17 @@ I architect intelligent systems that bridge **raw data** and **real-world produc
 
 <img src="https://github-readme-stats.vercel.app/api?username=IleshDevX&theme=tokyonight&hide_border=true&show_icons=true&count_private=false" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IleshDevX&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=IleshDevX&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=IleshDevX&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## 🏆 Top Contributions
+## 💬 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IleshDevX&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IleshDevX&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" />
 
 </div>
 
