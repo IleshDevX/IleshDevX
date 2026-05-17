@@ -61,7 +61,6 @@ I approach every project with energy and a unique perspective — writing code t
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" title="Jupyter"/>
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" title="Streamlit"/>
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="48" height="48" alt="MLflow" title="MLflow"/>
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="OpenAI" title="OpenAI"/>
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" height="48" alt="Apache Spark" title="Apache Spark"/>
   <img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="CUDA / NVIDIA" title="CUDA / NVIDIA"/>
 </p>
