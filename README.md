@@ -73,25 +73,29 @@ I architect intelligent systems that bridge **raw data** and **real-world produc
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IleshDevX&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=IleshDevX&theme=tokyonight&hide_border=true&show_icons=true&count_private=false" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IleshDevX&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=IleshDevX&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IleshDevX&theme=tokyonight&hide_border=true&layout=compact)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=IleshDevX&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
 ---
 
-## Top Contributed Repos
+## 🏆 Top Contributions
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=IleshDevX&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IleshDevX&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
