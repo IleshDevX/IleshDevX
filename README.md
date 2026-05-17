@@ -54,18 +54,16 @@ I approach every project with energy and a unique perspective — writing code t
 **AI & Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="HuggingFace" title="HuggingFace"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" title="LangChain"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" title="Jupyter"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" title="Streamlit"/>
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="48" height="48" alt="MLflow" title="MLflow"/>
+  <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="OpenAI" title="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" height="48" alt="Apache Spark" title="Apache Spark"/>
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="CUDA / NVIDIA" title="CUDA / NVIDIA"/>
 </p>
 
 **Cloud & DevOps**
