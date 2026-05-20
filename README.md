@@ -31,7 +31,7 @@ I approach every project with energy and a unique perspective — writing code t
 
 ## What I Build
 
-| 🧠 AI & Backend Integration | 📊 Data Science | 🌐 Full-Stack Web |
+| 🧠 AI & Backend Integration | 📊 Data Science | 🌐 Full-Stack Web Development |
 |---|---|---|
 | Designing and deploying ML pipelines end-to-end. Integrating LLMs, vision models, and custom AI into production APIs that scale. | Extracting signal from structured and unstructured data. Building dashboards, reports, and predictive systems that turn numbers into decisions. | Scalable backends, intuitive frontends, and complex data pipelines — architected end to end with performance in mind. |
 
