@@ -6,7 +6,7 @@
 
 `AI Engineer` &nbsp;·&nbsp; `Data Scientist` &nbsp;·&nbsp; `Web Specialist`
 
-<p>Building at the intersection of <strong>intelligence</strong>, <strong>data</strong>, and <strong>web</strong>.</p>
+<p>Building at the intersection of <strong>Intelligence</strong>, <strong>Data</strong>, and <strong>Web</strong>.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ilesh.009)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/Ilesh_Patel)
